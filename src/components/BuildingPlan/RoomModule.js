@@ -1,0 +1,9 @@
+export { default as Room1 } from "./patientroom1.svg";
+export { default as Room2 } from "./patientroom2.svg";
+export { default as Room3 } from "./patientroom3.svg";
+export { default as Room4 } from "./patientroom4.svg";
+export { default as Room5 } from "./patientroom5.svg";
+export { default as Room6 } from "./patientroom6.svg";
+export { default as Room7 } from "./patientroom7.svg";
+export { default as Room8 } from "./patientroom8.svg";
+export { default as Room9 } from "./patientroom9.svg";
